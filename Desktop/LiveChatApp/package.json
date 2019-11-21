@@ -1,0 +1,19 @@
+{
+  "name": "livechatapp",
+  "version": "1.0.0",
+  "description": "Live chat react App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErmanoClaude/LiveChatApp.git"
+  },
+  "author": "Ermano Claude",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErmanoClaude/LiveChatApp/issues"
+  },
+  "homepage": "https://github.com/ErmanoClaude/LiveChatApp#readme"
+}
